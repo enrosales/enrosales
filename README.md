@@ -6,5 +6,5 @@
 
 - 🛠️ Posso te ajudar com desenvolvimento frontend (Angular, React, TypeScript), boas práticas de código, acessibilidade, testes automatizados e mentoria para iniciantes.
 
-- 🌐 Sobre mim: Sou um desenvolvedor web com anos de experiência criando soluções sob medida. Acredito em código limpo, interfaces descomplicadas e aprendizado constante. Também produzo conteúdo sobre carreira, programação, finanças e crescimento pessoal, tanto no meu blog quanto no LinkedIn.
+- 🌐 Sobre mim: Sou um desenvolvedor web com anos de experiência criando soluções sob medida. Acredito em código limpo, interfaces descomplicadas e aprendizado constante. Também produzo conteúdo sobre carreira, programação, finanças e crescimento pessoal, tanto no meu [blog](https://techcodemoney.com) quanto no [LinkedIn](https://www.linkedin.com/in/erosales811/).
 
