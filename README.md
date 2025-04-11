@@ -8,3 +8,8 @@
 
 - 🌐 Sobre mim: Sou um desenvolvedor web com anos de experiência criando soluções sob medida. Acredito em código limpo, interfaces descomplicadas e aprendizado constante. Também produzo conteúdo sobre carreira, programação, finanças e crescimento pessoal, tanto no meu [blog](https://techcodemoney.com) quanto no [LinkedIn](https://www.linkedin.com/in/erosales811/).
 
+<div align="center">
+  <a href="https://github.com/enrosales">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrosales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrosales&layout=compact&langs_count=7&theme=dracula"/>
+</div>
