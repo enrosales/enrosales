@@ -15,6 +15,11 @@
 </div>
 
 ##
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enrosales&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrosales&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+##
   <div align="center" >
     <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,express,figma,github,jest,materialui,postman,styledcomponents,vercel,vite,bootstrap" />
