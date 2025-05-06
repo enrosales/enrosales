@@ -14,12 +14,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrosales&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
   <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-</a>
+    <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    </a>
   <br />
-
   </div>
 
 ##
